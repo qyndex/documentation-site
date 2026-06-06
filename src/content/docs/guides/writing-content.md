@@ -69,7 +69,7 @@ Starlight supports dozens of languages out of the box including JavaScript, Type
 Link to other documentation pages using root-relative paths:
 
 ```markdown
-See the [Deployment guide](/docs/guides/deployment) for hosting options.
+See the [Deployment guide](/guides/deployment) for hosting options.
 ```
 
 ### Images

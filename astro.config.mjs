@@ -6,7 +6,7 @@ export default defineConfig({
     starlight({
       title: "Docs",
       sidebar: [
-        { label: "Getting Started", items: [{ label: "Introduction", link: "/docs/getting-started" }] },
+        { label: "Getting Started", items: [{ label: "Introduction", link: "/getting-started" }] },
       ],
     }),
   ],

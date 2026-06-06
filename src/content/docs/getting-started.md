@@ -73,7 +73,7 @@ npm run preview
 
 ## Next steps
 
-- [Writing Content](/docs/guides/writing-content) — Learn Markdown/MDX authoring conventions
-- [Customization](/docs/guides/customization) — Theme, sidebar, and branding
-- [Deployment](/docs/guides/deployment) — Ship to Vercel, Netlify, or Docker
-- [Configuration Reference](/docs/reference/configuration) — All settings explained
+- [Writing Content](/guides/writing-content) — Learn Markdown/MDX authoring conventions
+- [Customization](/guides/customization) — Theme, sidebar, and branding
+- [Deployment](/guides/deployment) — Ship to Vercel, Netlify, or Docker
+- [Configuration Reference](/reference/configuration) — All settings explained

@@ -40,7 +40,7 @@ export default defineConfig({
 |--------|------|-------------|
 | `title` | `string` | Site title shown in header and browser tab |
 | `logo` | `object` | Logo image with `light` and `dark` variants |
-| `sidebar` | `SidebarItem[]` | Navigation structure (see [Customization](/docs/guides/customization)) |
+| `sidebar` | `SidebarItem[]` | Navigation structure (see [Customization](/guides/customization)) |
 | `social` | `object` | Social media links shown in the header |
 | `defaultLocale` | `string` | Default language code (e.g., `"en"`) |
 | `locales` | `object` | i18n locale definitions |
